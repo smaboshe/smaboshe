@@ -11,7 +11,7 @@ To date:
 - I am a founding member of the [Lusaka WordPress Meetup](https://wplusaka.wordpress.com)
 - I am part of the [Exchange with Google Developers](https://events.withgoogle.com/exchange-with-google-developers/) pilot that aims to match mentors and mentees working with Google technology
 
-I work with ~~WordPress~~, Trellis, Bedrock and Sage, Ruby on Rails, Ubuntu Linux, macOS, AWS, GCP and DigitalOcean.
+I work with WordPress, Trellis, Bedrock and Sage, Ruby on Rails, Ubuntu Linux, macOS, AWS, GCP and DigitalOcean.
 
 You can find me on [LinkedIn](https://www.linkedin.com/in/silumesii/) and [Twitter](https://twitter.com/silumesii) as well.
 
