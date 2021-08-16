@@ -2,6 +2,10 @@
 
 ---
 
+We're [hiring](https://bongohive.co.zm/careers)! (Lusaka, Zambia)
+
+---
+
 The technology ecosystem in Zambia has been a focus of mine since 2009. I'm looking to work with anyone who can help raise the quality and quantity of Zambian software and Zambian software developers.
 
 To date:
