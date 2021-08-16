@@ -2,7 +2,7 @@
 
 ---
 
-We're [hiring](https://bongohive.co.zm/careers)! (Lusaka, Zambia)
+We're [hiring](https://bongohive.co.zm/careers) a Software Developer (Lusaka, Zambia).
 
 ---
 
