@@ -2,10 +2,6 @@
 
 ---
 
-We're [hiring](https://bongohive.co.zm/careers) a Software Developer (Lusaka, Zambia).
-
----
-
 The technology ecosystem in Zambia has been a focus of mine since 2009. I'm looking to work with anyone who can help raise the quality and quantity of Zambian software and Zambian software developers.
 
 To date:
@@ -13,7 +9,7 @@ To date:
 - I lead a group of 12 software developers
 - I have been a VC4A Startup Mentor and featured on [Mentorwise](https://vc4a.com/blog/channels/mentorwise/), the VC4A Podcast
 - I am a founding member of the [Lusaka WordPress Meetup](https://wplusaka.wordpress.com)
-- I am part of the [Exchange with Google Developers](https://events.withgoogle.com/exchange-with-google-developers/) pilot that aims to match mentors and mentees working with Google technology
+- I was part of the [Exchange with Google Developers](https://events.withgoogle.com/exchange-with-google-developers/) pilot that aims to match mentors and mentees working with Google technology
 
 I work with WordPress, Trellis, Bedrock and Sage, Ruby on Rails, Ubuntu Linux, macOS, AWS, GCP and DigitalOcean.
 
