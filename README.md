@@ -10,8 +10,6 @@ To date:
 - I am a Cofounder of [BongoHive](http://bongohive.co.zm) and [BongoHive Consult](http://bongohive.co.zm/consult)
 - I have been a VC4A Startup Mentor and featured on [Mentorwise](https://vc4a.com/blog/channels/mentorwise/), the VC4A Podcast
 
-I work with WordPress, Trellis, Bedrock and Sage, Ruby on Rails, React Native, TypeScript, Ubuntu Linux, macOS, AWS, GCP and DigitalOcean.
-
 You can find me on [LinkedIn](https://www.linkedin.com/in/silumesii/) and [X](https://x.com/silumesii) as well.
 
 <!--
