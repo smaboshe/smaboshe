@@ -1,15 +1,15 @@
-### Hi there 👋
+### Hello, hello, hello! 👋
 
 ---
 
 The technology ecosystem in Zambia has been a focus of mine since 2009. I'm looking to work with anyone who can help raise the quality and quantity of Zambian software and Zambian software developers.
 
-I am currently looking for a role as a full-time, remote Ruby on Rails developer.
+I am the founder of [Pencil Case Studios](https://pencilcasestudios.com/) where I work on web applications, mobile applications and games.
 
-You can find me on [LinkedIn](https://www.linkedin.com/in/silumesii/) and [X](https://x.com/silumesii) as well.
+In addition to here on GitHub, you can find my things scattered across the Internet including on [LinkedIn](https://www.linkedin.com/in/silumesii/), [X](https://x.com/silumesii), [Instagram](https://www.instagram.com/smaboshe/) and [itch.io](https://pencilcasestudios.itch.io/).
 
-- 🔭 I’m currently working on ... a hobby project called "Printopolis" to level-up my Rails and Hotwire Native
-- 🌱 I’m currently learning ... Kubernetes through the Kubernetes African Developer Training Program
-- 🤔 I’m looking for help with ... finding a full-time Rails gig
+- 🔭 I’m currently working on ... Pencil Case Studios
+- 🌱 I’m currently learning ... game development in PICO-8 (see "[_Picochet_](https://pencilcasestudios.itch.io/picochet)")
+- 🤔 I’m looking for help with ... finding a reliable online payment platform that fully supports mobile and card payments in Zambia
 - 💬 Ask me about ... the developer ecosystem in Zambia
 - ⚡ Fun fact: ... I still don't know if Esteban found the mysterious cities of gold
