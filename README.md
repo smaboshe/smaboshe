@@ -10,6 +10,6 @@ In addition to here on GitHub, you can find my things scattered across the Inter
 
 - 🔭 I’m currently working on ... Pencil Case Studios
 - 🌱 I’m currently learning ... game development in PICO-8 (see "[_Picochet_](https://pencilcasestudios.itch.io/picochet)")
-- 🤔 I’m looking for help with ... finding a reliable online payment platform that fully supports mobile and card payments in Zambia
+- 🤔 I’m looking for help with ... growing my professional network on the Copperbelt
 - 💬 Ask me about ... the developer ecosystem in Zambia
 - ⚡ Fun fact: ... I still don't know if Esteban found the mysterious cities of gold
